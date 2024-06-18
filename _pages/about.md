@@ -33,8 +33,10 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 - [2024.6.12] Our work related with multi-agent collaboration studied the scaling law in multi-agent systems and our framework supporting various topologies and over a thousand agents to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
 
-- [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=2>ACL 2024, main conference</font>, congrats to them. 🥳
+- [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
 
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
 
 - [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
+
+- [2023.8.29] ChatDev has been open-sourced, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!
