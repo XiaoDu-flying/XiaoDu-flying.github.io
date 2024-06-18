@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuoyun Du / Site Title"
+title                    : "Zhuoyun Du"
 title_separator          : "-"
 name                     : &name "Zhuoyun Du"
 description              : &description "A Graduate Student from Zhejiang University"
