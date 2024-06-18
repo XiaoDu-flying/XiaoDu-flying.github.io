@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks, presentations and academic salon"
 permalink: /talks/
 author_profile: true
 ---
 
-# Academic Salon
+---
+
+# In Company.
 
 ---
 
-## In [ModelBest](https://modelbest.cn/)
+## Academic Salon in [ModelBest](https://modelbest.cn/)
 <details>
 <summary>[2024.1.5] Exchange-of-Thought: Enhancing Large Language Model Capabilities
 through Cross-Model Communication</summary>
