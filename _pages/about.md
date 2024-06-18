@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Computer Science. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
 
-During my senior year of undergraduate studies, I served as a Research Assistant at Tsinghua University and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn).
+During my senior year of undergraduate studies, I served as a Research Assistant at [Tsinghua University](https://www.tsinghua.edu.cn) and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
 
 My graduate advisor is [Prof. Chen Wei](www.cad.zju.edu.cn/home/chenwei) from the National Key Laboratory of CAD&CG.
 
@@ -70,3 +70,10 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 \\(\dagger\\): Equal Contribution.
 
 ---
+
+## 🐣 Research Experience
+
+**[THUNLP](https://nlp.csai.tsinghua.edu.cn/) Natural Language Processing Lab at Tsinghua University**
+Research Intern, Nov. 2023 – Present
+
+Participating in the [ChatDev](https://github.com/OpenBMB/ChatDev/) project, The focus of my research was on the cutting-edge field of improving the capabilities of multi-agent teams composed of through cross-team collaboration.
