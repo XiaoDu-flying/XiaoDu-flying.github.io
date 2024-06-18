@@ -65,3 +65,12 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 - **Communicative Agents for Software Development**. [ACL 2024 main conference](https://arxiv.org/abs/2307.07924). Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun.
 
 $\dagger$: Equal Contribution. 
+
+$$
+\displaylines{
+\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+\nabla \cdot B=0 \\\
+\nabla \times E= -\partial_tB \\\
+\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+}
+$$
