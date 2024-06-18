@@ -1,11 +1,12 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  -/about/
-  -/about.html
+
+permalink: /  
+title: "About me"  
+excerpt: "About me"  
+author_profile: true  
+redirect_from:  
+ -/about/ -/about.html
+
 ---
 
 I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Computer Science. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
@@ -20,9 +21,9 @@ Feel free to reach me: [xiaodu.flying@gmai.com](xiaodu.flying@gmai.com).
 
 **Research Intrest**:
 
-<details>
-<summary>LLM-based Agent🤖</summary>
-I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
+<details>  
+<summary>LLM-based Agent🤖</summary>  
+I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。  
 </details>
 
 ## 🎉 News
@@ -30,17 +31,31 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 ---
 
 - [2024.6.14] Our work related with multi-agent collaboration from the pserspective of cross-team organization that break the isolation nature of single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
-
+  
 - [2024.6.12] Our work related with multi-agent collaboration studied the scaling law in multi-agent systems and our framework supporting various topologies and over a thousand agents to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
-
+  
 - [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
-
+  
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
-
+  
 - [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
-
+  
 - [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning, which extract shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).
-
+  
 - [2023.8.29] [ChatDev](https://github.com/OpenBMB/ChatDev/) has been open-sourced, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!
-
+  
 - [2023.7.16] 🎉ChatDev is released on [arxiv.org:2307.07924](https://arxiv.org/abs/2307.07924). It can be your Virtual Software Dream Team! ChatDev is redefining software development with a diverse team of AI-powered agents. Share your initial idea💭 and witness these agents cooperatively communicate💬 for software development.
+  
+
+## 📖 Publications
+
+---
+
+### Author & Co-Author
+
+- **Multi-Agent Software Development through Cross-Team Collaboration**. In arXiv 2406.08979.  
+  **Zhuoyun Du^$\dagger$**, Chen Qian, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
+
+---
+
+### Highly related
