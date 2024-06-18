@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  -/about/
+  -/about.html
+---
+
 I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Computer Science. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
 
 During my senior year of undergraduate studies, I served as a Research Assistant at Tsinghua University and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn).
@@ -26,3 +36,5 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 - [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=2>ACL 2024, main conference</font>, congrats to them. 🥳
 
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
+
+- [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
