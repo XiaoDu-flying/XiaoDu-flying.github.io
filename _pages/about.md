@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  -/about/
+  -/about.html
+---
+
 I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Computer Science. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
 
 During my senior year of undergraduate studies, I had the privilege of serving as a Research Assistant at Tsinghua University, under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn). 
