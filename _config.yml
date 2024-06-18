@@ -12,7 +12,7 @@ title                    : "Zhuoyun Du"
 title_separator          : "-"
 name                     : &name "Zhuoyun Du"
 description              : &description "A Graduate Student from Zhejiang University"
-url                      : "https://XiaoDu-flying.github.io"
+url                      : https://XiaoDu-flying.github.io
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoDu-flying/XiaoDu-flying.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhuoyun Du (杜卓耘)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Learning everday."
   location         : "Zhejiang Hangzhou China"
   employer         : "Zhejiang University"
   uri              : # URL
