@@ -15,6 +15,7 @@ description              : &description "A Graduate Student from Zhejiang Univer
 url                      : https://XiaoDu-flying.github.io
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoDu-flying/XiaoDu-flying.github.io"
+"enable_mathjax": true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
