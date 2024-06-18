@@ -7,8 +7,6 @@ author_profile: true
 
 ---
 
-# In Company.
-
 ## Academic Salon in [ModelBest](https://modelbest.cn/)
 <details>
 <summary>[2024.1.5] Exchange-of-Thought: Enhancing Large Language Model Capabilities
