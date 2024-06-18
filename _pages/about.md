@@ -22,7 +22,7 @@ Feel free to reach me: [xiaodu.flying@gmai.com](xiaodu.flying@gmai.com).
 
 <details>
 <summary>LLM-based Agent🤖</summary>
-I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
+I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems.
 </details>
 
 ## 🎉 News
