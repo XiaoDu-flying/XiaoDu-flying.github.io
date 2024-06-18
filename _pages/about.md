@@ -19,3 +19,10 @@ You can find my CV here: [CV](../assets/ZhuoyunDu_cv.pdf).
 Feel free to reach me: [xiaodu.flying@gmai.com](xiaodu.flying@gmai.com).
 
 **Research Intrest**:
+
+<details>
+<summary>LLM-based Agent🤖</summary>
+<pre><code>
+I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complex s. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
+</code></pre>
+</details>
