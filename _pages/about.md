@@ -51,7 +51,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ### Author & Co-Author
 
-- **Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** ^\\(\rho\\), Chen Qian $^\rho$, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
+- **Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian $^\rho$, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
 
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [arXiv:2406.07155](https://arxiv.org/abs/2406.07155). Chen Qian $^\dagger$, Zihao Xie $^\dagger$, Yifei Wang $^\dagger$, Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
   
@@ -65,7 +65,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 - **Communicative Agents for Software Development**. [ACL 2024 main conference](https://arxiv.org/abs/2307.07924). Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun.
 
-$\dagger$: Equal Contribution. 
+\\(dagger\\)$: Equal Contribution. 
 
 $$
 \displaylines{
