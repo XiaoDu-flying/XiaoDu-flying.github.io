@@ -10,19 +10,19 @@ redirect_from:
 
 I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Computer Science. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
 
-During my senior year of undergraduate studies, I served as a Research Assistant at [Tsinghua University](https://www.tsinghua.edu.cn) and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
+During my senior year of undergraduate studies, I served as a Research Assistant at [Tsinghua University](https://www.tsinghua.edu.cn) and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
 
-My graduate advisor is [Prof. Chen Wei](www.cad.zju.edu.cn/home/chenwei) from the National Key Laboratory of CAD&CG.
+My graduate advisor is [Prof. Chen Wei](https://person.zju.edu.cn/0002356) from the [ZJUVAI](https://zjuvag.org), National Key Laboratory of CAD&CG.
 
 You can find my CV here: [CV](../assets/ZhuoyunDu_cv.pdf).
 
-Feel free to reach me: [xiaodu.flying@gmai.com](xiaodu.flying@gmai.com).
+Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 **Research Intrest**:
 
 <details>
 <summary>LLM-based Agent🤖</summary>
-I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems.
+I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
 </details>
 
 ## 🎉 News
@@ -57,7 +57,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
   
 ---
 
-### Highly Related
+### Highly related
 
 - **Iterative Experience Refinement of Software-Developing Agents**. In [arXiv:2405.04219]((https://arxiv.org/abs/2405.04219)), 2024. Chen Qian \\(^\dagger\\), Jiahao Li \\(^\dagger\\), Yufan Dang, Wei Liu, YiFei Wang, Zihao Xie, Weize Chen, Cheng Yang, Yingli Zhang, Zhiyuan Liu, Maosong Sun.
 
@@ -74,6 +74,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 ## 🐣 Research Experience
 
 **[THUNLP](https://nlp.csai.tsinghua.edu.cn/) Natural Language Processing Lab at Tsinghua University**
+
 Research Intern, Nov. 2023 – Present
 
 Participating in the [ChatDev](https://github.com/OpenBMB/ChatDev/) project, The focus of my research was on the cutting-edge field of improving the capabilities of multi-agent teams composed of through cross-team collaboration.
