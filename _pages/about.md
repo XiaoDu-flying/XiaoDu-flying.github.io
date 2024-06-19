@@ -53,17 +53,6 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ### Author & Co-Author
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 1; margin-right: 20px;">
-    <!-- 这里是图片 -->
-    <img src="../images/paper/aggregate_ctc.png" alt="描述文字">
-  </div>
-  <div style="flex: 2;">
-    <!-- 这里是文字 -->
-    <b>Multi-Agent Software Development through Cross-Team Collaboration<b>. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). <b>Zhuoyun Du<b> $^\dagger$, Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
-  </div>
-</div>
-
 - **Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
 
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [arXiv:2406.07155](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
