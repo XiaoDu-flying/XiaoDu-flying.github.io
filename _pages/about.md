@@ -56,7 +56,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 <div style="display: flex; width: 100%;">
   <div style="flex: 1; margin-right: 20px;">
     <!-- 这里是图片 -->
-    <img src="image-url" alt="描述文字">
+    <img src="../images/paper/aggregate_ctc.png" alt="描述文字">
   </div>
   <div style="flex: 2;">
     <!-- 这里是文字 -->
