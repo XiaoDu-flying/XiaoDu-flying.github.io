@@ -15,9 +15,9 @@ This framework is adept at efficiently organizing multiple customizable content-
 
 Our research has discovered that as the number of agent teams increases, there is a diminishing return on content quality. By introducing a greedy pruning mechanism, ✂️ we have successfully mitigated this issue, endowing CTC with the capacity and significance to support a large number of agent teams. Additionally, an appropriate level of inter-team diversity allows for the coexistence of innovative and compliant teams within the CTC framework, effectively enhancing the quality of the content generated.
 
-arXiv: [https://arxiv.org/abs/2406.08979](https://arxiv.org/abs/2406.08979)
+arXiv: [https://arxiv.org/abs/2406.08979](https://arxiv.org/abs/2406.08979).
 
-Repo will merge into [https://github.com/OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+Repo will merge into [https://github.com/OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg).
 
 We warmly welcome your attention and look forward to engaging in enlightening exchanges with esteemed colleagues!
 
@@ -29,8 +29,9 @@ We warmly welcome your attention and look forward to engaging in enlightening ex
 
 MacNet supports a variety of heterogeneous topologies and can accommodate thousands of agents working in concert. Additionally, the study found a small-world collaboration phenomenon (topologies that are closer to the properties of small-world networks exhibit superior comprehensive performance). Furthermore, collaborative performance generally follows a Sigmoid trend and is observed "earlier" compared to the neural scaling law.
 
-arXiv paper: https://arxiv.org/abs/2406.07155
-The Repo will be integrated into https://github.com/OpenBMB/ChatDev, stay tuned!
+arXiv paper: [https://arxiv.org/abs/2406.07155](https://arxiv.org/abs/2406.07155)
+
+Repo will merge into [https://github.com/OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg).
 
 The research is still in its infancy, and we welcome feedback and corrections from scholars!
 
