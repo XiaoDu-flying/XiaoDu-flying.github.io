@@ -22,3 +22,18 @@ Repo will merge into [https://github.com/OpenBMB/ChatDev](https://github.com/Ope
 We warmly welcome your attention and look forward to engaging in enlightening exchanges with esteemed colleagues!
 
 ---
+
+![pic1](../images/paper/macnet.png "The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.")
+
+🎉 Our team has recently proposed the Multi-Agent Collaboration Networks (MacNet), as summarized in the figure. Large model agents are deployed on the topology of a directed acyclic graph, and by using topological sorting, the network is "unfolded" into a sequence of interactions for the agents 🤖🤖, driven by language interactions for task-oriented collaboration. Moreover, the network only propagates the solutions after interaction (not the entire conversation), building a scalable memory management mechanism 🧠. 
+
+MacNet supports a variety of heterogeneous topologies and can accommodate thousands of agents working in concert. Additionally, the study found a small-world collaboration phenomenon (topologies that are closer to the properties of small-world networks exhibit superior comprehensive performance). Furthermore, collaborative performance generally follows a Sigmoid trend and is observed "earlier" compared to the neural scaling law.
+
+arXiv paper: https://arxiv.org/abs/2406.07155
+The Repo will be integrated into https://github.com/OpenBMB/ChatDev, stay tuned!
+
+The research is still in its infancy, and we welcome feedback and corrections from scholars!
+
+Feel free to share this update with your academic network and gather insights from the community. Your openness to feedback indicates a commitment to the iterative improvement of your research, which is highly valued in the academic world.
+
+---
