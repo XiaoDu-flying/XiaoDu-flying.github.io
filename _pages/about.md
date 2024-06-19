@@ -64,6 +64,22 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
   </div>
 </div>
 
+<div style="display: flex; width: 100%;">
+  <div style="flex: 1; margin-right: 20px;">
+    <!-- 这里是图片 -->
+    <img src="../images/paper/aggregate_ctc.png" alt="描述文字">
+  </div>
+  <div style="flex: 2;">
+    <!-- 这里是Markdown格式的文字 -->
+    <div id="markdown-description">**Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.</div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  document.getElementById('markdown-description').innerHTML = marked(document.getElementById('markdown-description').innerText);
+</script>
+
 - **Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
 
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [arXiv:2406.07155](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
