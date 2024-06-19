@@ -23,7 +23,7 @@ We warmly welcome your attention and look forward to engaging in enlightening ex
 
 ---
 
-![pic1](../images/paper/macnet.png "The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.")
+![pic1](../images/paper/macnet.png "Given a task, multi-agent collaboration networks (MACNET) utilize directed acyclic graphs to organize diverse agents for collaborative interactions, with the final solution derived from their dialogues.")
 
 🎉 Our team has recently proposed the Multi-Agent Collaboration Networks (MacNet), as summarized in the figure. Large model agents are deployed on the topology of a directed acyclic graph, and by using topological sorting, the network is "unfolded" into a sequence of interactions for the agents 🤖🤖, driven by language interactions for task-oriented collaboration. Moreover, the network only propagates the solutions after interaction (not the entire conversation), building a scalable memory management mechanism 🧠. 
 
