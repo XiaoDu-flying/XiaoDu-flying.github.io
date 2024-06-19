@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-![The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.](../assets/img/paper/aggregate_ctc.jpg "Magic Gardens")
+![pic1](../images/paper/aggregate_ctc.png "The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.")
 
 I am thrilled to showcase my recent work at THUNLP, with heartfelt gratitude to all the mentors and peers who have guided me along the way 😀!
 
@@ -20,3 +20,5 @@ arXiv: https://arxiv.org/abs/2406.08979
 Repo will merge into [https://github.com/OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 
 We warmly welcome your attention and look forward to engaging in enlightening exchanges with esteemed colleagues!
+
+---
