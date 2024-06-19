@@ -12,7 +12,7 @@ My name is Zhuoyun Du (杜卓耘). I am a first-year graduate student at [Zhejia
 
 During my senior year of undergraduate studies, I served as a Research Assistant at [Tsinghua University](https://www.tsinghua.edu.cn) and had the privilege under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
 
-My graduate advisor is [Prof. Chen Wei](https://person.zju.edu.cn/0002356) from the [ZJUVAI](https://zjuvag.org), National Key Laboratory of CAD&CG.
+My graduate advisor is [Prof. Wei Chen](https://person.zju.edu.cn/0002356) from the [ZJUVAI](https://zjuvag.org), National Key Laboratory of CAD&CG.
 
 I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4), where I share my research learning, photography works, and daily life.
 
