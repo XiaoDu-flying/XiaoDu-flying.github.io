@@ -22,8 +22,8 @@ repository               : "XiaoDu-flying/XiaoDu-flying.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhuoyun Du (杜卓耘)"
-  pronouns         : # example: "she/her"  
+  name             : "Zhuoyun Du"
+  pronouns         : "he/his"  
   bio              : "Learning everday."
   location         : "Zhejiang Hangzhou China"
   employer         : "Zhejiang University"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
