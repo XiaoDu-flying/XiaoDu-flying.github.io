@@ -25,3 +25,5 @@ This talk includes discussions and shares on determining undergraduate effort di
 </details>
 
 ### [Pdf](../assets/talk_exp.pdf) for this talk.
+
+---
