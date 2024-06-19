@@ -20,7 +20,7 @@ Recently, Large Language Models (LLMs) have made significant progress in complex
 
 ## Talk in Department of Computer Science and Technology at [Jinan University](http://www.jnu.edu.cn/)
 <details>
-<summary>[2024.1.5] How to Plan Your Undergraduate Studies and Life</summary>
+<summary>[2023.6.10] How to Plan Your Undergraduate Studies and Life</summary>
 This talk includes discussions and shares on determining undergraduate effort directions, daily life, scientific research, English learning, and further education planning.
 </details>
 
