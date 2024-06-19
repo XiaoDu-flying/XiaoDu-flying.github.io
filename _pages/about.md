@@ -79,6 +79,6 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 Research Intern, Nov. 2023 – Present
 
-Participating in the [ChatDev](https://github.com/OpenBMB/ChatDev/) project, The focus of my research was on the cutting-edge field of improving the capabilities of multi-agent teams composed of through cross-team collaboration.
+- Participating in the [ChatDev](https://github.com/OpenBMB/ChatDev/) project, maintaining the system, and adding new features. The focus of my research was on the cutting-edge field of improving the capabilities of multi-agent teams through cross-team collaboration.
 
 ---
