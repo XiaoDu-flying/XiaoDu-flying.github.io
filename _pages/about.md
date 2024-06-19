@@ -60,7 +60,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
   </div>
   <div style="flex: 2;">
     <!-- 这里是文字 -->
-    这里是文字描述...
+    **Multi-Agent Software Development through Cross-Team Collaboration**. [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
   </div>
 </div>
 
