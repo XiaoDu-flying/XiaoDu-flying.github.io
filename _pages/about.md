@@ -16,7 +16,7 @@ My graduate advisor is [Prof. Chen Wei](https://person.zju.edu.cn/0002356) from 
 
 I have a passion for sharing tech blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4), where I share my research learning, photography works, and daily life.
 
-You can find my CV here: [CV](../assets/ZhuoyunDu_cv.pdf).
+You can find my CV here: [CV in Chinese](../assets/cv_cn.pdf) and [CV in English](../assets/cv.pdf).
 
 Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
