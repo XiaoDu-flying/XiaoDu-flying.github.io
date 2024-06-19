@@ -16,3 +16,5 @@ author_profile: true
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [arXiv:2406.07155](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
   
 ---
+
+\\(\dagger\\): Equal Contribution.
