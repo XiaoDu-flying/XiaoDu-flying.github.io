@@ -20,7 +20,7 @@ I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notio
 
 <!--You can find my CV here: [CV in Chinese](../assets/cv_cn.pdf) and [CV in English](../assets/cv.pdf).-->
 
-Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
+Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com) or [duzy.zju@outlook.com](duzy.zju@outlook.com).
 
 **Research Intrest**:
 
