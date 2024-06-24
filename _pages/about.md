@@ -18,7 +18,7 @@ My graduate advisor is [Prof. Wei Chen](https://person.zju.edu.cn/0002356) from 
 
 I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4), where I share my research learning, photography works, and daily life. Aside from research, I have a keen interest in sports such as soccer, fencing, and snowboarding. I am passionate about music and enjoy playing the piano and guitar (although I'm just a beginner). I also have a love for photography and reading.
 
-You can find my CV here: [CV in Chinese](../assets/cv_cn.pdf) and [CV in English](../assets/cv.pdf).
+<!--You can find my CV here: [CV in Chinese](../assets/cv_cn.pdf) and [CV in English](../assets/cv.pdf).-->
 
 Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
