@@ -41,7 +41,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
 
-- [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
+- [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL in ChatDev](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
 
 - [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning, which extract shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).
 
