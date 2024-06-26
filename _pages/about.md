@@ -35,7 +35,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ---
 
-- [2024.6.25]: 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, the ChatDev team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
+- [2024.6.25] 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, the ChatDev team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
 
 - [2024.6.14] Our work related with multi-agent collaboration from the pserspective of cross-team organization that break the isolation nature of single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
 
