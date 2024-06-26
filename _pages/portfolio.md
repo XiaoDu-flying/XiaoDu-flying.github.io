@@ -70,7 +70,7 @@ Feel free to share this update with your academic network and gather insights fr
 ## ChatDev: Communicative Agents for Software Development
 
 <p align="center">
-  <img src='../images/paper/logo1.png' width=550>
+  <img src='../images/paper/logo.png' width=550>
 </p>
 
 ### 📖 Overview
