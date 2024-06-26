@@ -5,6 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+![pic1](../images/paper/web_thunlp.png "🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, the ChatDev team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format.")
+
+🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
+
+This project presents an interactive eBook that compiles an extensive collection of research papers on large language model (LLM)-based multi-agent systems. Organized into multiple chapters and continuously updated with significant research, it strives to provide a comprehensive outline for both researchers and enthusiasts in the field. We welcome ongoing contributions to expand and enhance this resource.
+
+---
+
 ![pic1](../images/paper/aggregate_ctc.png "The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.")
 
 I am thrilled to showcase my recent work at THUNLP, with heartfelt gratitude to all the mentors and peers who have guided me along the way 😀!
