@@ -1,4 +1,4 @@
----
+![logo1](https://github.com/XiaoDu-flying/XiaoDu-flying.github.io/assets/76032930/03718849-b0f2-4987-a861-762293b0267a)---
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
@@ -70,7 +70,7 @@ Feel free to share this update with your academic network and gather insights fr
 ## ChatDev: Communicative Agents for Software Development
 
 <p align="center">
-  <img src='./misc/logo1.png' width=550>
+  <img src='./images/paper/logo1.png' width=550>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Feel free to share this update with your academic network and gather insights fr
   which is based on large language models (LLMs) and serves as an ideal scenario for studying collective intelligence.
 
 <p align="center">
-  <img src='./misc/company.png' width=600>
+  <img src='./images/paper/company.png' width=600>
 </p>
 
 ### ❓ What Can ChatDev Do?
@@ -110,7 +110,7 @@ you need assistance!
 
 **Company**: Creating your own customized "ChatDev Company" is a breeze. This personalized setup involves three simple
 configuration JSON files. Check out the example provided in the ``CompanyConfig/Default`` directory. For detailed
-instructions on customization, refer to our [Wiki](wiki.md).
+instructions on customization, refer to our [Wiki](./assets/paper/wiki.md).
 
 **Software**: Whenever you develop software using ChatDev, a corresponding folder is generated containing all the
 essential information. Sharing your work with us is as simple as making a pull request. Here's an example: execute the
