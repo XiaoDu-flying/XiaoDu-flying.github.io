@@ -1,4 +1,4 @@
-![logo1](https://github.com/XiaoDu-flying/XiaoDu-flying.github.io/assets/76032930/03718849-b0f2-4987-a861-762293b0267a)---
+---
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
