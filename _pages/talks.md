@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-## Academic Salon in [ModelBest](https://modelbest.cn/)
+## An Academic Salon in [ModelBest](https://modelbest.cn/)
 <details>
 <summary>[2024.1.5] Exchange-of-Thought: Enhancing Large Language Model Capabilities
 through Cross-Model Communication</summary>
@@ -21,11 +21,9 @@ Recently, Large Language Models (LLMs) have made significant progress in complex
 
 ### [Pdf](../assets/salon_eot.pdf) for this salon.
 
-
-
 ---
 
-## Talk in Department of Computer Science and Technology at [Jinan University](http://www.jnu.edu.cn/)
+## A Talk in Department of Computer Science and Technology at [Jinan University](http://www.jnu.edu.cn/)
 <details>
 <summary>[2023.6.10] How to Plan Your Undergraduate Studies and Life</summary>
 This talk includes discussions and shares on determining undergraduate effort directions, daily life, scientific research, English learning, and further education planning.
