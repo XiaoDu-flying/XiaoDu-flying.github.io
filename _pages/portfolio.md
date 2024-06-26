@@ -66,3 +66,59 @@ The research is still in its infancy, and we welcome feedback and corrections fr
 Feel free to share this update with your academic network and gather insights from the community. Your openness to feedback indicates a commitment to the iterative improvement of your research, which is highly valued in the academic world.
 
 ---
+
+## ChatDev: Communicative Agents for Software Development
+
+<p align="center">
+  <img src='./misc/logo1.png' width=550>
+</p>
+
+<p align="center">
+    【English   | <a href="readme/README-Chinese.md">Chinese</a> | <a href="readme/README-Japanese.md">Japanese</a> | <a href="readme/README-Korean.md">Korean</a> | <a href="readme/README-Filipino.md">Filipino</a> | <a href="readme/README-French.md">French</a> | <a href="readme/README-Slovak.md">Slovak</a> | <a href="readme/README-Portuguese.md">Portuguese</a> | <a href="readme/README-Spanish.md">Spanish</a> | <a href="readme/README-Dutch.md">Dutch</a> | <a href="readme/README-Turkish.md">Turkish</a> | <a href="readme/README-Hindi.md">Hindi</a> | <a href="readme/README-Bahasa-Indonesia.md">Bahasa Indonesia</a>】
+</p>
+<p align="center">
+    【📚 <a href="wiki.md">Wiki</a> | 🚀 <a href="wiki.md#visualizer">Visualizer</a> | 👥 <a href="Contribution.md">Community Built Software</a> | 🔧 <a href="wiki.md#customization">Customization</a> | 👾 <a href="https://discord.gg/bn4t2Jy6TT")>Discord</a>】
+
+</p>
+
+### 📖 Overview
+
+- **ChatDev** stands as a **virtual software company** that operates through various **intelligent agents** holding
+  different roles, including Chief Executive Officer <img src='visualizer/static/figures/ceo.png' height=20>, Chief Product Officer <img src='visualizer/static/figures/cpo.png' height=20>, Chief Technology Officer <img src='visualizer/static/figures/cto.png' height=20>, programmer <img src='visualizer/static/figures/programmer.png' height=20>, reviewer <img src='visualizer/static/figures/reviewer.png' height=20>, tester <img src='visualizer/static/figures/tester.png' height=20>, art designer <img src='visualizer/static/figures/designer.png' height=20>. These
+  agents form a multi-agent organizational structure and are united by a mission to "revolutionize the digital world
+  through programming." The agents within ChatDev **collaborate** by participating in specialized functional seminars,
+  including tasks such as designing, coding, testing, and documenting.
+- The primary objective of ChatDev is to offer an **easy-to-use**, **highly customizable** and **extendable** framework,
+  which is based on large language models (LLMs) and serves as an ideal scenario for studying collective intelligence.
+
+<p align="center">
+  <img src='./misc/company.png' width=600>
+</p>
+
+### ❓ What Can ChatDev Do?
+
+![intro](misc/intro.png)
+
+<https://github.com/OpenBMB/ChatDev/assets/11889052/80d01d2f-677b-4399-ad8b-f7af9bb62b72>
+
+### 🤗 Share Your Software
+
+**Code**: We are enthusiastic about your interest in participating in our open-source project. If you come across any
+problems, don't hesitate to report them. Feel free to create a pull request if you have any inquiries or if you are
+prepared to share your work with us! Your contributions are highly valued. Please let me know if there's anything else
+you need assistance!
+
+**Company**: Creating your own customized "ChatDev Company" is a breeze. This personalized setup involves three simple
+configuration JSON files. Check out the example provided in the ``CompanyConfig/Default`` directory. For detailed
+instructions on customization, refer to our [Wiki](wiki.md).
+
+**Software**: Whenever you develop software using ChatDev, a corresponding folder is generated containing all the
+essential information. Sharing your work with us is as simple as making a pull request. Here's an example: execute the
+command ``python3 run.py --task "design a 2048 game" --name "2048"  --org "THUNLP" --config "Default"``. This will
+create a software package and generate a folder named ``/WareHouse/2048_THUNLP_timestamp``. Inside, you'll find:
+
+- All the files and documents related to the 2048 game software
+- Configuration files of the company responsible for this software, including the three JSON config files
+  from ``CompanyConfig/Default``
+- A comprehensive log detailing the software's building process that can be used to replay (``timestamp.log``)
+- The initial prompt used to create this software (``2048.prompt``)
