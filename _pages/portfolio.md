@@ -76,7 +76,7 @@ Feel free to share this update with your academic network and gather insights fr
 ### 📖 Overview
 
 - **ChatDev** stands as a **virtual software company** that operates through various **intelligent agents** holding
-  different roles, including Chief Executive Officer <img src='../images/paper/ceo.png' height=20>, Chief Product Officer <img src='../images/paper/cpo.png' height=20>, Chief Technology Officer <img src='../images/paper/cto.png' height=20>, programmer <img src='../images/paper/programmer.png' height=20>, reviewer <img src='../images/paper/reviewer.png' height=20>, tester <img src='../images/paper/tester.png' height=20>, art designer <img src='../images/paper/designer.png' height=20>. These
+  different roles, including Chief Executive Officer <img src='../images/paper/ceo.png' height=2>, Chief Product Officer <img src='../images/paper/cpo.png' height=2>, Chief Technology Officer <img src='../images/paper/cto.png' height=2>, programmer <img src='../images/paper/programmer.png' height=2>, reviewer <img src='../images/paper/reviewer.png' height=2>, tester <img src='../images/paper/tester.png' height=2>, art designer <img src='../images/paper/designer.png' height=2>. These
   agents form a multi-agent organizational structure and are united by a mission to "revolutionize the digital world
   through programming." The agents within ChatDev **collaborate** by participating in specialized functional seminars,
   including tasks such as designing, coding, testing, and documenting.
