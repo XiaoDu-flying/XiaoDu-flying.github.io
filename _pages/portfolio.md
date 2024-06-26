@@ -89,7 +89,7 @@ Feel free to share this update with your academic network and gather insights fr
 
 ### ❓ What Can ChatDev Do?
 
-![intro](misc/intro.png)
+![intro](../images/paper/intro.png)
 
 <https://github.com/OpenBMB/ChatDev/assets/11889052/80d01d2f-677b-4399-ad8b-f7af9bb62b72>
 
