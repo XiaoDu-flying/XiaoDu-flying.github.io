@@ -70,14 +70,13 @@ Feel free to share this update with your academic network and gather insights fr
 ## ChatDev: Communicative Agents for Software Development
 
 <p align="center">
-  <img src='./images/paper/logo1.png' width=550>
+  <img src='../images/paper/logo1.png' width=550>
 </p>
-
 
 ### 📖 Overview
 
 - **ChatDev** stands as a **virtual software company** that operates through various **intelligent agents** holding
-  different roles, including Chief Executive Officer <img src='visualizer/static/figures/ceo.png' height=20>, Chief Product Officer <img src='visualizer/static/figures/cpo.png' height=20>, Chief Technology Officer <img src='visualizer/static/figures/cto.png' height=20>, programmer <img src='visualizer/static/figures/programmer.png' height=20>, reviewer <img src='visualizer/static/figures/reviewer.png' height=20>, tester <img src='visualizer/static/figures/tester.png' height=20>, art designer <img src='visualizer/static/figures/designer.png' height=20>. These
+  different roles, including Chief Executive Officer <img src='../images/paper/ceo.png' height=20>, Chief Product Officer <img src='../images/paper/cpo.png' height=20>, Chief Technology Officer <img src='../images/paper/cto.png' height=20>, programmer <img src='../images/paper/programmer.png' height=20>, reviewer <img src='../images/paper/reviewer.png' height=20>, tester <img src='../images/paper/tester.png' height=20>, art designer <img src='../images/paper/designer.png' height=20>. These
   agents form a multi-agent organizational structure and are united by a mission to "revolutionize the digital world
   through programming." The agents within ChatDev **collaborate** by participating in specialized functional seminars,
   including tasks such as designing, coding, testing, and documenting.
@@ -85,7 +84,7 @@ Feel free to share this update with your academic network and gather insights fr
   which is based on large language models (LLMs) and serves as an ideal scenario for studying collective intelligence.
 
 <p align="center">
-  <img src='./images/paper/company.png' width=600>
+  <img src='../images/paper/company.png' width=600>
 </p>
 
 ### ❓ What Can ChatDev Do?
@@ -103,7 +102,7 @@ you need assistance!
 
 **Company**: Creating your own customized "ChatDev Company" is a breeze. This personalized setup involves three simple
 configuration JSON files. Check out the example provided in the ``CompanyConfig/Default`` directory. For detailed
-instructions on customization, refer to our [Wiki](./assets/paper/wiki.md).
+instructions on customization, refer to our [Wiki](../assets/paper/wiki.md).
 
 **Software**: Whenever you develop software using ChatDev, a corresponding folder is generated containing all the
 essential information. Sharing your work with us is as simple as making a pull request. Here's an example: execute the
