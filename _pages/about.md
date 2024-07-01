@@ -46,13 +46,13 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 - [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
 
-- [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
+- [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement 💪 of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).
 
-- [2024.1.25] Code and data around Experiential Co-Learning of Software-Developing Agents has released in [ECL in ChatDev](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
+- [2024.1.25] Code and data 🔍 around Experiential Co-Learning of Software-Developing Agents has released in [ECL in ChatDev](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).
 
 - [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning🕵️, which extract shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).
 
-- [2023.8.29] [ChatDev](https://github.com/OpenBMB/ChatDev/) has been open-sourced, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!
+- [2023.8.29] [ChatDev](https://github.com/OpenBMB/ChatDev/) has been open-sourced 🎉, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!
 
 - [2023.7.16] 🎉ChatDev is released on [arxiv.org:2307.07924](https://arxiv.org/abs/2307.07924). It can be your Virtual Software Dream Team! ChatDev is redefining software development with a diverse team of AI-powered agents. Share your initial idea💭 and witness these agents cooperatively communicate💬 for software development.
 
