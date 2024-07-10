@@ -94,4 +94,4 @@ Research Intern, Nov. 2023 – Present
 
 ---
 
-<a href="https://info.flagcounter.com/IaKC"><img src="https://s01.flagcounter.com/map/IaKC/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/IaKC"><img src="https://s01.flagcounter.com/map/IaKC/size_xl/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
