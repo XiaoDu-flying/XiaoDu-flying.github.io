@@ -69,6 +69,8 @@ Feel free to share this update with your academic network and gather insights fr
 
 ## ChatDev: Communicative Agents for Software Development
 
+(The following content is from ChatDev repo.)
+
 <p align="center">
   <img src='../images/paper/logo.png' width=550>
 </p>
