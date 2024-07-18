@@ -97,6 +97,34 @@ Research Intern, Nov. 2023 – Present
 
 ---
 
+## 🎉 News
+
+---
+
+- [2024.6.25] 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
+
+- [2024.6.21] 🎉Our work related with Agents for Collaborative Task under Information Asymmetry 👥 is available on [arxiv:2406.14928](https://arxiv.org/abs/2406.14928)
+
+- [2024.6.14] Our work related with multi-agent collaboration from the pserspective of cross-team 🚩🚩 organization that break 🔨 the isolation nature of single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
+
+- [2024.6.12] Our work related with multi-agent collaboration studied the scaling law 🕸️ in multi-agent systems and our framework supporting various topologies and over a thousand agents🤖🤖 to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
+
+- [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
+
+## 🔍Old News🔮
+
+- [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement 💪 of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).<br />
+
+- [2024.1.25] Code and data 🔍 around Experiential Co-Learning of Software-Developing Agents has released in [ECL in ChatDev](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).<br />
+
+- [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning🕵️, which extract shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).<br />
+
+- [2023.8.29] [ChatDev](https://github.com/OpenBMB/ChatDev/) has been open-sourced 🎉, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!<br />
+
+- [2023.7.16] 🎉ChatDev is released on [arxiv.org:2307.07924](https://arxiv.org/abs/2307.07924). It can be your Virtual Software Dream Team! ChatDev is redefining software development with a diverse team of AI-powered agents. Share your initial idea💭 and witness these agents cooperatively communicate💬 for software development.
+
+---
+
 <a href="https://info.flagcounter.com/IaKC"><img src="https://s01.flagcounter.com/map/IaKC/size_xl/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <script>
