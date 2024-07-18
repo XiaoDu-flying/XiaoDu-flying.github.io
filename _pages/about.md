@@ -115,6 +115,8 @@ Research Intern, Nov. 2023 – Present
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Yu_RA2IUlBbGVk640y6XENl98eHvWDaLIakCNSAexB8"></script>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Yu_RA2IUlBbGVk640y6XENl98eHvWDaLIakCNSAexB8&cl=ffffff&w=a"></script>
+
 <script>
 var _hmt = _hmt || [];
 (function() {
