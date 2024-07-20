@@ -83,20 +83,6 @@ Research Intern, Nov. 2023 – Present
 
 ---
 
-## 🎉 News
-
----
-
-- [2024.6.25] 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
-
-- [2024.6.21] 🎉Our work related with Agents for Collaborative Task under Information Asymmetry 👥 is available on [arxiv:2406.14928](https://arxiv.org/abs/2406.14928)
-
-- [2024.6.14] Our work related with multi-agent collaboration from the pserspective of cross-team 🚩🚩 organization that break 🔨 the isolation nature of single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
-
-- [2024.6.12] Our work related with multi-agent collaboration studied the scaling law 🕸️ in multi-agent systems and our framework supporting various topologies and over a thousand agents🤖🤖 to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
-
-- [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
-
 ## 🔍Old News🔮
 
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement 💪 of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).<br />
