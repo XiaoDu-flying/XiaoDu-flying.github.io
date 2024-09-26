@@ -34,6 +34,7 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 ## 🎉 News
 
 ---
+- [2024.5.16] Our team's paper Autonomous Agent for Collaborative Task under Information Asymmetry has been accepted to <font face=default color=SandyBrown size=3>NeurIPS 2024 </font>, congrats to Wei Liu, Chenxi Wang and all co-authors. 🥳
 
 - [2024.6.25] 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
 
