@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Zhuoyun Du (杜卓耘). I am a first-year graduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in **Computer Science**. My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
 
-During my senior year of undergraduate studies, I served as a Research Assistant in group of [ChatDev](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) at [Tsinghua University](https://www.tsinghua.edu.cn), under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
+During my senior year of undergraduate studies, I served as a Research Assistant in the group of [ChatDev](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) at [Tsinghua University](https://www.tsinghua.edu.cn), under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
 
 My graduate advisor is [Prof. Wei Chen](https://zjuvag.org/authors/weichen/) from the [ZJUVAI](https://zjuvag.org), State Key Lab of CAD&CG, Zhejiang University.
 
@@ -20,7 +20,7 @@ I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notio
 
 <!--You can find my CV here: [CV in Chinese](../assets/cv_cn.pdf) and [CV in English](../assets/cv.pdf).-->
 
-Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
+Feel free to reach me at [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 ## Research Intrest
 
@@ -28,7 +28,7 @@ Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 <details>
 <summary>LLM-based Agent🤖</summary>
-I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step and complexs. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
+I'm focused on developing LLM-based autonomous agents capable of effectively and efficiently tackling multi-step complexes. Previously, my focus was primarily on software development and story generation, but now I'm eager to explore broader applications. Particularly, I'm intrigued by the concept of LLM-based multi-agent systems。
 </details>
 
 ## 🎉 News
@@ -38,11 +38,11 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 - [2024.6.25] 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
 
-- [2024.6.21] 🎉Our work related with Agents for Collaborative Task under Information Asymmetry 👥 is available on [arxiv:2406.14928](https://arxiv.org/abs/2406.14928)
+- [2024.6.21] 🎉Our work related to Agents for Collaborative Task under Information Asymmetry 👥 is available on [arxiv:2406.14928](https://arxiv.org/abs/2406.14928)
 
-- [2024.6.14] Our work related with multi-agent collaboration from the pserspective of cross-team 🚩🚩 organization that break 🔨 the isolation nature of single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
+- [2024.6.14] Our work related to multi-agent collaboration from the perspective of cross-team 🚩🚩 organization that breaks 🔨 the isolation nature of a single team has been released on [arXiv:2406.08979](https://arxiv.org/abs/2406.08979) first.
 
-- [2024.6.12] Our work related with multi-agent collaboration studied the scaling law 🕸️ in multi-agent systems and our framework supporting various topologies and over a thousand agents🤖🤖 to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
+- [2024.6.12] Our work related to multi-agent collaboration studied the scaling law 🕸️ in multi-agent systems and our framework supporting various topologies and over a thousand agents🤖🤖 to collaborate for task resolution has been released on [arXiv:2406.07155](https://arxiv.org/abs/2406.07155).
 
 - [2024.5.16] Our team's two papers ChatDev and Experiential Co-learning have been accepted to <font face=default color=SandyBrown size=3>ACL 2024, main conference</font>, congrats to them. 🥳
 
@@ -90,7 +90,7 @@ Research Intern, Nov. 2023 – Aug. 2024
 
 - [2024.1.25] Code and data 🔍 around Experiential Co-Learning of Software-Developing Agents has released in [ECL in ChatDev](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide).<br />
 
-- [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning🕵️, which extract shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).<br />
+- [2023.12.29] Following ChatDev, our team has introduced Experiential Co-Learning🕵️, which extracts shortcut experiences from the behavioral trajectories of multiple agents on historical tasks. Utilizing retrieval-assisted mutual inference on unseen tasks, available on [arxiv:2312.17025](https://arxiv.org/abs/2312.17025).<br />
 
 - [2023.8.29] [ChatDev](https://github.com/OpenBMB/ChatDev/) has been open-sourced 🎉, and to date, it has already received ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg), which is truly exciting!<br />
 
