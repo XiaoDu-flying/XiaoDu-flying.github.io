@@ -22,6 +22,8 @@ I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notio
 
 Feel free to reach me at [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
+![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green) 
+
 ## Research Intrest
 
 ---
