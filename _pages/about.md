@@ -14,7 +14,7 @@ My name is Zhuoyun Du (杜卓耘). I am a first-year graduate student at [Zhejia
 
 During my senior year of undergraduate studies, I served as a Research Assistant in the group of [ChatDev](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) at [Tsinghua University](https://www.tsinghua.edu.cn), under the guidance of [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [Dr. Chen Qian](https://qianc62.github.io/) from [THUNLP](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University.
 
-My graduate advisor is [Prof. Wei Chen](https://zjuvag.org/authors/weichen/) from the [ZJUVAI](https://zjuvag.org), State Key Lab of CAD&CG, Zhejiang University.
+My graduate advisor is [Prof. Wei Chen](https://zjuvag.org/authors/weichen/) from the [ZJUVAI](https://zjuvag.org), State Key Lab of CAD&CG, [Zhejiang University](https://www.zju.edu.cn/).
 
 I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4), where I share my research learning, photography works, and daily life. Aside from research, I have a keen interest in sports such as soccer, fencing, and snowboarding. I am passionate about music and enjoy playing the piano and guitar (although I'm just a beginner). I also have a love for photography and reading.
 
