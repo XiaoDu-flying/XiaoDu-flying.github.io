@@ -56,6 +56,8 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ### Author & Co-Author
 
+- **LLMs Can Simulate Standardized Patients via Agent Coevolution**. In [arXiv:2412.11716](https://arxiv.org/abs/2412.11716). **Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying
+
 - **Multi-Agent Software Development through Cross-Team Collaboration**. In [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
 
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [arXiv:2406.07155](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
