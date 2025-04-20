@@ -92,6 +92,10 @@ Research Intern, Nov. 2023 – Aug. 2024
 
 ---
 
+## 🏫Professional Services
+
+- Program Committee Member: [NeurIPS-2025](https://neurips.cc/Conferences/2025).
+
 ## 🔍Old News🔮
 
 - [2024.5.6] Following our prior work on ECL, we’re excited to announce the publication of our team's latest endeavor, Iterative Experience Refinement 💪 of Software-Developing Agents, available on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219).<br />
