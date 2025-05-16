@@ -36,6 +36,8 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 ## 🎉 News
 
 ---
+- [2025.5.16] 🫡 Our team’s work about “Multi Agent Cross-Team Collaboration” is accepted by Findings of ACL 2025, work around "LLM-based Standardized Patients" is accepted by Main conference of ACL 2025.
+
 - [2024.12.16] 🎉 Paper [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/abs/2406.07155) has been accepted to <font face=default color=SandyBrown size=3>ICLR 2025 </font>, congrats to all co-authors. 🥳
 
 - [2024.12.16] 🎉 To empower LLMs in medical education areas, our work EvoPatient successfully transfer LLMs into adequate Standardized patients (SPs) by using agents coevolution, which effectively gather valuable patient-doctor dialogues for agent presentation standardization. Paper hase been released on [arXiv:2412.11716](https://arxiv.org/abs/2412.11716).
@@ -58,9 +60,9 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ### Author & Co-Author
 
-- **LLMs Can Simulate Standardized Patients via Agent Coevolution**. In [arXiv:2412.11716](https://arxiv.org/abs/2412.11716). **Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying
+- **LLMs Can Simulate Standardized Patients via Agent Coevolution**. In [The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2412.11716). **Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying
 
-- **Multi-Agent Software Development through Cross-Team Collaboration**. In [arXiv:2406.08979](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
+- **Multi-Agent Software Development through Cross-Team Collaboration**. In [Findings of The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
 
 - **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [Thirteenth International Conference on Learning Representations.](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
 
