@@ -60,23 +60,23 @@ I'm focused on developing LLM-based autonomous agents capable of effectively and
 
 ### Author & Co-Author
 
-- **LLMs Can Simulate Standardized Patients via Agent Coevolution**. In [The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2412.11716). **Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying
+- **LLMs Can Simulate Standardized Patients via Agent Coevolution**. In [The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2412.11716). **Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying.
 
-- **Multi-Agent Software Development through Cross-Team Collaboration**. In [Findings of The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.
+- **Multi-Agent Software Development through Cross-Team Collaboration**. In [Findings of The 63rd Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/abs/2406.08979). **Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.  [[Code]](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
-- **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [Thirteenth International Conference on Learning Representations.](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
+- **Scaling Large-Language-Model-based Multi-Agent Collaboration**. In [Thirteenth International Conference on Learning Representations.](https://arxiv.org/abs/2406.07155). Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun. [[Code]](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
-- **Autonomous Agents for Collaborative Task under Information Asymmetry**. In [Advances in Neural Information Processing Systems](https://arxiv.org/abs/2406.07155). Wei Liu \\(^\dagger\\), Chenxi Wang \\(^\dagger\\), Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Chen Qian.
+- **Autonomous Agents for Collaborative Task under Information Asymmetry**. In [Advances in Neural Information Processing Systems](https://arxiv.org/abs/2406.07155). Wei Liu \\(^\dagger\\), Chenxi Wang \\(^\dagger\\), Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Chen Qian. [[Code]](https://github.com/thinkwee/iAgents)
   
 ---
 
 ### Highly related
 
-- **Iterative Experience Refinement of Software-Developing Agents**. In [arXiv:2405.04219]((https://arxiv.org/abs/2405.04219)), 2024. Chen Qian \\(^\dagger\\), Jiahao Li \\(^\dagger\\), Yufan Dang, Wei Liu, YiFei Wang, Zihao Xie, Weize Chen, Cheng Yang, Yingli Zhang, Zhiyuan Liu, Maosong Sun.
+- **Iterative Experience Refinement of Software-Developing Agents**. In [arXiv:2405.04219]((https://arxiv.org/abs/2405.04219)), 2024. Chen Qian \\(^\dagger\\), Jiahao Li \\(^\dagger\\), Yufan Dang, Wei Liu, YiFei Wang, Zihao Xie, Weize Chen, Cheng Yang, Yingli Zhang, Zhiyuan Liu, Maosong Sun. [[Code]](https://github.com/OpenBMB/ChatDev/)
 
-- **Experiential Co-Learning of Software-Developing Agents**. [ACL 2024 main conference](https://arxiv.org/abs/2312.17025). Chen Qian \\(^\dagger\\), Yufan Dang \\(^\dagger\\), Jiahao Li, Wei Liu, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.
+- **Experiential Co-Learning of Software-Developing Agents**. [ACL 2024 main conference](https://arxiv.org/abs/2312.17025). Chen Qian \\(^\dagger\\), Yufan Dang \\(^\dagger\\), Jiahao Li, Wei Liu, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun. [[Code]](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide)
 
-- **Communicative Agents for Software Development**. [ACL 2024 main conference](https://arxiv.org/abs/2307.07924). Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun.
+- **Communicative Agents for Software Development**. [ACL 2024 main conference](https://arxiv.org/abs/2307.07924). Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun. [[Code]](https://github.com/OpenBMB/ChatDev/)
 
 ---
 
