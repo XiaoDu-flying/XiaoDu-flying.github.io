@@ -1,19 +1,11 @@
 ---
 permalink: /
-title: "Zhuoyun Du | 杜卓耘"
-excerpt: "Computer Science Researcher | AI & Multi-Agent Systems"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
----
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E86AB&background=FFFFFF00&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+academic+journey+🎓;Exploring+AI+and+Multi-Agent+Systems+🤖;Learning+Everyday+💡)](https://git.io/typing-svg)
-
-</div>
-
+  -/about/
+  -/about.html
 ---
 
 ## 👋 Hello, I'm Zhuoyun Du
@@ -77,6 +69,7 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 - **[2024.6.14]** Introduced [Cross-Team Multi-Agent Organization](https://arxiv.org/abs/2406.08979)
 - **[2024.6.12]** Published [Scaling Laws in Multi-Agent Systems](https://arxiv.org/abs/2406.07155)
 - **[2024.5.16]** Two papers accepted at **ACL 2024** main conference
+- **[2023.12.29]** Realsed [Experiential Co-Learning🕵️](https://arxiv.org/abs/2312.17025)
 - **[2024.5.6]** Released [Iterative Experience Refinement](https://arxiv.org/abs/2405.04219)
 - **[2023.8.29]** ChatDev open-sourced! Now with ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) stars!
 
