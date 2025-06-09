@@ -10,15 +10,11 @@ redirect_from:
 
 ## 👋 Hello, I'm Zhuoyun Du
 
-<div style="text-align: justify; line-height: 1.8;">
-
 I am a first-year graduate student at [**Zhejiang University**](https://www.zju.edu.cn/) 🎓, majoring in **Computer Science**. My passion lies at the intersection of cutting-edge AI research and real-world applications.
 
 ### 🔬 Research Journey
 
 Currently, I'm working with [**Prof. Wei Chen**](https://zjuvag.org/authors/weichen/) at the [**ZJUVAI**](https://zjuvag.org) (State Key Lab of CAD&CG). Previously, I had the privilege of serving as a Research Assistant in the [**ChatDev**](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project at [**Tsinghua University**](https://www.tsinghua.edu.cn), under the mentorship of [**Prof. Zhiyuan Liu**](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [**Dr. Chen Qian**](https://qianc62.github.io/) from [**THUNLP**](https://nlp.csai.tsinghua.edu.cn/).
-
-</div>
 
 ---
 
