@@ -73,6 +73,8 @@ redirect_from:
 }
 </style>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E86AB&background=FFFFFF00&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+academic+journey+🎓;Exploring+AI+and+Multi-Agent+Systems+🤖;Learning+Everyday+💡)](https://git.io/typing-svg)
+
 ## 👋 Hello, I'm Zhuoyun Du
 
 I am a first-year graduate student at <a href="https://www.zju.edu.cn/"><strong>Zhejiang University</strong></a> 🎓, majoring in <strong>Computer Science</strong>. My passion lies at the intersection of cutting-edge AI research and real-world applications.
