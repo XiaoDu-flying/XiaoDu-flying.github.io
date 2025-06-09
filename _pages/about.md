@@ -243,16 +243,13 @@ Visit my <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af1
 🌐 <strong>Blog</strong>: <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4">My Personal Blog</a><br>
 💻 <strong>GitHub</strong>: <a href="https://github.com/XiaoDu-flying">@XiaoDu-flying</a>
 
-<br><br>
-<img src="https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge" alt="Last Commit">
-
-</div>
+![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green) 
 
 ---
 
 <div align="center">
 
-### 🌍 Visitors from Around the World
+🌍 Visitors
 
 <a href="https://info.flagcounter.com/IaKC"><img src="https://s01.flagcounter.com/map/IaKC/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
