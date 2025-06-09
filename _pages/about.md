@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<div style="background: #FFE5E5; border-left: 4px solid #FF6B6B; padding: 15px 20px; margin-bottom: 20px; border-radius: 0 8px 8px 0;">
+  <strong style="color: #FF6B6B; font-size: 16px;">📢 I'm seeking PhD opportunities for Fall 2026!</strong> 
+  <span style="color: #666;">Research interests: LLMs, Multi-Agent Systems, AI Applications. 
+  <a href="mailto:xiaodu.flying@gmail.com" style="color: #FF6B6B;">Contact me</a></span>
+</div>
+
 <style>
 .gradient-box {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -73,11 +79,21 @@ redirect_from:
 }
 </style>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E86AB&background=FFFFFF00&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+academic+journey+🎓;Exploring+AI+and+Multi-Agent+Systems+🤖;Learning+Everyday+💡)](https://git.io/typing-svg)
-
 ## 👋 Hello, I'm Zhuoyun Du
 
 I am a first-year graduate student at <a href="https://www.zju.edu.cn/"><strong>Zhejiang University</strong></a> 🎓, majoring in <strong>Computer Science</strong>. My passion lies at the intersection of cutting-edge AI research and real-world applications.
+
+<div style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); color: white; padding: 25px; border-radius: 12px; margin: 25px 0; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: white; margin: 0 0 10px 0; font-size: 24px;">🎓 Seeking PhD Opportunities for Fall 2026</h3>
+  <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">
+    I am actively looking for <strong style="color: white;">PhD positions</strong> starting in Fall 2026 in the areas of<br>
+    <strong style="color: white;">Large Language Models, Multi-Agent Systems, and AI Applications</strong>.
+  </p>
+  <p style="margin: 15px 0 0 0; font-size: 15px;">
+    📧 Feel free to reach out at <a href="mailto:xiaodu.flying@gmail.com" style="color: white; text-decoration: underline;"><strong>xiaodu.flying@gmail.com</strong></a><br>
+    I welcome any opportunities, collaborations, or recommendations!
+  </p>
+</div>
 
 ### 🔬 Research Journey
 
@@ -245,13 +261,16 @@ Visit my <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af1
 🌐 <strong>Blog</strong>: <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4">My Personal Blog</a><br>
 💻 <strong>GitHub</strong>: <a href="https://github.com/XiaoDu-flying">@XiaoDu-flying</a>
 
-![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green) 
+<br><br>
+<img src="https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge" alt="Last Commit">
+
+</div>
 
 ---
 
 <div align="center">
 
-🌍 Visitors
+### 🌍 Visitors from Around the World
 
 <a href="https://info.flagcounter.com/IaKC"><img src="https://s01.flagcounter.com/map/IaKC/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
