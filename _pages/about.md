@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background: #FFE5E5; border-left: 4px solid #FF6B6B; padding: 15px 20px; margin-bottom: 20px; border-radius: 0 8px 8px 0;">
-  <strong style="color: #FF6B6B; font-size: 16px;">📢 I'm seeking PhD opportunities for Fall 2026!</strong> 
-  <span style="color: #666;">Research interests: LLMs, Multi-Agent Systems, AI Applications. 
-  <a href="mailto:xiaodu.flying@gmail.com" style="color: #FF6B6B;">Contact me</a></span>
-</div>
-
 <style>
 .gradient-box {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -261,12 +255,17 @@ Visit my <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af1
 🌐 <strong>Blog</strong>: <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4">My Personal Blog</a><br>
 💻 <strong>GitHub</strong>: <a href="https://github.com/XiaoDu-flying">@XiaoDu-flying</a>
 
-<br><br>
-<img src="https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge" alt="Last Commit">
+</div>
 
+<div style="background: #FFE5E5; border-left: 4px solid #FF6B6B; padding: 15px 20px; margin-bottom: 20px; border-radius: 0 8px 8px 0;">
+  <strong style="color: #FF6B6B; font-size: 16px;">📢 I'm seeking PhD opportunities for Fall 2026!</strong> 
+  <span style="color: #666;">Research interests: LLMs, Multi-Agent Systems Reasoning, AI Applications. 
+  <a href="mailto:xiaodu.flying@gmail.com" style="color: #FF6B6B;">Contact me</a></span>
 </div>
 
 ---
+
+<img src="https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge" alt="Last Commit">
 
 <div align="center">
 
