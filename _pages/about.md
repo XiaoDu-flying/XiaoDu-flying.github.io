@@ -4,32 +4,97 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  -/about/
-  -/about.html
+  - /about/
+  - /about.html
 ---
+
+<style>
+.gradient-box {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+.gradient-box h3 {
+  color: white;
+  margin-top: 0;
+}
+.interest-tag {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  margin: 5px;
+}
+.tag-llm { background: #E8F4F8; }
+.tag-nlp { background: #FFF4E6; }
+.tag-mas { background: #F0F4FF; }
+.tag-dev { background: #E8F8E8; }
+.pub-card {
+  background: #F8F9FA;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 15px 0;
+  border-left: 4px solid #667eea;
+}
+.research-box {
+  padding: 15px;
+  background: #F8F9FA;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.exp-card {
+  background: #F0F4FF;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin: 20px 0;
+}
+.hobby-card {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.hobby-sports { background: #E8F4F8; }
+.hobby-music { background: #FFF4E6; }
+.hobby-other { background: #F0F4FF; }
+.news-highlight {
+  background: #FFF9E6;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+  border-left: 3px solid #FFB800;
+}
+</style>
 
 ## 👋 Hello, I'm Zhuoyun Du
 
-I am a first-year graduate student at [**Zhejiang University**](https://www.zju.edu.cn/) 🎓, majoring in **Computer Science**. My passion lies at the intersection of cutting-edge AI research and real-world applications.
+I am a first-year graduate student at <a href="https://www.zju.edu.cn/"><strong>Zhejiang University</strong></a> 🎓, majoring in <strong>Computer Science</strong>. My passion lies at the intersection of cutting-edge AI research and real-world applications.
 
 ### 🔬 Research Journey
 
-Currently, I'm working with [**Prof. Wei Chen**](https://zjuvag.org/authors/weichen/) at the [**ZJUVAI**](https://zjuvag.org) (State Key Lab of CAD&CG). Previously, I had the privilege of serving as a Research Assistant in the [**ChatDev**](https://github.com/OpenBMB/ChatDev) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project at [**Tsinghua University**](https://www.tsinghua.edu.cn), under the mentorship of [**Prof. Zhiyuan Liu**](https://nlp.csai.tsinghua.edu.cn/~lzy/) and [**Dr. Chen Qian**](https://qianc62.github.io/) from [**THUNLP**](https://nlp.csai.tsinghua.edu.cn/).
+Currently, I'm working with <a href="https://zjuvag.org/authors/weichen/"><strong>Prof. Wei Chen</strong></a> at the <a href="https://zjuvag.org"><strong>ZJUVAI</strong></a> (State Key Lab of CAD&CG). Previously, I had the privilege of serving as a Research Assistant in the <a href="https://github.com/OpenBMB/ChatDev"><strong>ChatDev</strong></a> ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project at <a href="https://www.tsinghua.edu.cn"><strong>Tsinghua University</strong></a>, under the mentorship of <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/"><strong>Prof. Zhiyuan Liu</strong></a> and <a href="https://qianc62.github.io/"><strong>Dr. Chen Qian</strong></a> from <a href="https://nlp.csai.tsinghua.edu.cn/"><strong>THUNLP</strong></a>.
 
 ---
 
 ## 🎯 Research Interests
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <span style="background: #E8F4F8; padding: 8px 16px; border-radius: 20px; font-size: 14px;">🤖 Large Language Models</span>
-  <span style="background: #FFF4E6; padding: 8px 16px; border-radius: 20px; font-size: 14px;">🧠 Natural Language Processing</span>
-  <span style="background: #F0F4FF; padding: 8px 16px; border-radius: 20px; font-size: 14px;">👥 Multi-Agent Systems & Reasoning</span>
-  <span style="background: #E8F8E8; padding: 8px 16px; border-radius: 20px; font-size: 14px;">💻 AI-Powered Application Development</span>
+  <span class="interest-tag tag-llm">🤖 Large Language Models</span>
+  <span class="interest-tag tag-nlp">🧠 Natural Language Processing</span>
+  <span class="interest-tag tag-mas">👥 Multi-Agent Systems & Reasoning</span>
+  <span class="interest-tag tag-dev">💻 AI-Powered Application Development</span>
 </div>
 
 <details style="margin: 20px 0;">
 <summary><b>🔍 Research Focus: LLM-based Agents</b></summary>
-<div style="padding: 15px; background: #F8F9FA; border-radius: 8px; margin-top: 10px;">
+<div class="research-box">
 I'm dedicated to developing LLM-based autonomous agents capable of effectively tackling multi-step complex tasks. My research has evolved from software development and creative applications to exploring broader implementations, with a particular fascination for LLM-based multi-agent collaboration systems.
 </div>
 </details>
@@ -38,36 +103,38 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 
 ## 🎉 Recent Highlights
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h3 style="color: white; margin-top: 0;">🏆 Latest Achievements</h3>
+<div class="gradient-box">
+  <h3>🏆 Latest Achievements</h3>
   
-  • **ACL 2025**: Two papers accepted (Multi-Agent Collaboration & LLM-based Standardized Patients)<br>
-  • **ICLR 2025**: Paper on Scaling Multi-Agent Collaboration accepted<br>
-  • **NeurIPS 2024**: Paper on Autonomous Agents under Information Asymmetry accepted
+  • <strong>ACL 2025</strong>: Two papers accepted (Multi-Agent Collaboration & LLM-based Standardized Patients)<br>
+  • <strong>ICLR 2025</strong>: Paper on Scaling Multi-Agent Collaboration accepted<br>
+  • <strong>NeurIPS 2024</strong>: Paper on Autonomous Agents under Information Asymmetry accepted
 </div>
 
 ### 📰 News Timeline
 
-- **[2025.5.16]** 🎊 Two papers accepted at **ACL 2025** - exploring cross-team collaboration and medical education applications!
+<div class="news-highlight">
+<strong>[2025.5.16]</strong> 🎊 Two papers accepted at <strong>ACL 2025</strong> - exploring cross-team collaboration and medical education applications!
+</div>
 
-- **[2024.12.16]** 🌟 [**Scaling Large-Language-Model-based Multi-Agent Collaboration**](https://arxiv.org/abs/2406.07155) accepted at **ICLR 2025**!
+- **[2024.12.16]** 🌟 <a href="https://arxiv.org/abs/2406.07155"><strong>Scaling Large-Language-Model-based Multi-Agent Collaboration</strong></a> accepted at **ICLR 2025**!
 
-- **[2024.12.16]** 🏥 Introducing **EvoPatient**: Transforming LLMs into Standardized Patients for medical education. [arXiv:2412.11716](https://arxiv.org/abs/2412.11716)
+- **[2024.12.16]** 🏥 Introducing **EvoPatient**: Transforming LLMs into Standardized Patients for medical education. <a href="https://arxiv.org/abs/2412.11716">arXiv:2412.11716</a>
 
 - **[2024.9.26]** 🤝 Paper on collaborative agents under information asymmetry accepted at **NeurIPS 2024**!
 
-- **[2024.6.25]** 📚 Launch of our [**Interactive E-book**](https://thinkwee.top/multiagent_ebook) on Multi-Agent Collaboration
+- **[2024.6.25]** 📚 Launch of our <a href="https://thinkwee.top/multiagent_ebook"><strong>Interactive E-book</strong></a> on Multi-Agent Collaboration
 
 <details>
 <summary><b>📅 Earlier News</b></summary>
 
-- **[2024.6.21]** Released work on [Information Asymmetry in Agent Collaboration](https://arxiv.org/abs/2406.14928)
-- **[2024.6.14]** Introduced [Cross-Team Multi-Agent Organization](https://arxiv.org/abs/2406.08979)
-- **[2024.6.12]** Published [Scaling Laws in Multi-Agent Systems](https://arxiv.org/abs/2406.07155)
-- **[2024.5.16]** Two papers accepted at **ACL 2024** main conference
-- **[2023.12.29]** Realsed [Experiential Co-Learning🕵️](https://arxiv.org/abs/2312.17025)
-- **[2024.5.6]** Released [Iterative Experience Refinement](https://arxiv.org/abs/2405.04219)
-- **[2023.8.29]** ChatDev open-sourced! Now with ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) stars!
+- <strong>[2024.6.21]</strong> Released work on <a href="https://arxiv.org/abs/2406.14928">Information Asymmetry in Agent Collaboration</a>
+- <strong>[2024.6.14]</strong> Introduced <a href="https://arxiv.org/abs/2406.08979">Cross-Team Multi-Agent Organization</a>
+- <strong>[2024.6.12]</strong> Published <a href="https://arxiv.org/abs/2406.07155">Scaling Laws in Multi-Agent Systems</a>
+- <strong>[2024.5.16]</strong> Two papers accepted at <strong>ACL 2024</strong> main conference
+- <strong>[2023.12.29]</strong> Released <a href="https://arxiv.org/abs/2312.17025">Experiential Co-Learning 🕵️</a>
+- <strong>[2024.5.6]</strong> Released <a href="https://arxiv.org/abs/2405.04219">Iterative Experience Refinement</a>
+- <strong>[2023.8.29]</strong> ChatDev open-sourced! Now with <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> stars!
 
 </details>
 
@@ -77,48 +144,55 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 
 ### 🏅 First/Co-First Author
 
-<div style="background: #F8F9FA; padding: 20px; border-radius: 10px; margin: 15px 0;">
-
-**[ACL 2025]** **LLMs Can Simulate Standardized Patients via Agent Coevolution**  
-**Zhuoyun Du** \\(^\dagger\\), Lujie Zheng \\(^\dagger\\), Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2412.11716)
-
+<div class="pub-card">
+<strong>[ACL 2025] LLMs Can Simulate Standardized Patients via Agent Coevolution</strong><br>
+<strong>Zhuoyun Du</strong><sup>†</sup>, Lujie Zheng<sup>†</sup>, Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying.<br>
+<a href="https://arxiv.org/abs/2412.11716"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
 </div>
 
-<div style="background: #F8F9FA; padding: 20px; border-radius: 10px; margin: 15px 0;">
-
-**[ACL 2025 Findings]** **Multi-Agent Software Development through Cross-Team Collaboration**  
-**Zhuoyun Du** \\(^\dagger\\), Chen Qian \\(^\dagger\\), Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2406.08979) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
+<div class="pub-card">
+<strong>[ACL 2025 Findings] Multi-Agent Software Development through Cross-Team Collaboration</strong><br>
+<strong>Zhuoyun Du</strong><sup>†</sup>, Chen Qian<sup>†</sup>, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.<br>
+<a href="https://arxiv.org/abs/2406.08979"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://github.com/OpenBMB/ChatDev/tree/macnet"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
-<div style="background: #F8F9FA; padding: 20px; border-radius: 10px; margin: 15px 0;">
-
-**[ICLR 2025]** **Scaling Large-Language-Model-based Multi-Agent Collaboration**  
-Chen Qian \\(^\dagger\\), Zihao Xie \\(^\dagger\\), Yifei Wang \\(^\dagger\\), Wei Liu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2406.07155) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
+<div class="pub-card">
+<strong>[ICLR 2025] Scaling Large-Language-Model-based Multi-Agent Collaboration</strong><br>
+Chen Qian<sup>†</sup>, Zihao Xie<sup>†</sup>, Yifei Wang<sup>†</sup>, Wei Liu, Yufan Dang, <strong>Zhuoyun Du</strong>, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.<br>
+<a href="https://arxiv.org/abs/2406.07155"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://github.com/OpenBMB/ChatDev/tree/macnet"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
-<div style="background: #F8F9FA; padding: 20px; border-radius: 10px; margin: 15px 0;">
-
-**[NeurIPS 2024]** **Autonomous Agents for Collaborative Task under Information Asymmetry**  
-Wei Liu \\(^\dagger\\), Chenxi Wang \\(^\dagger\\), Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, **Zhuoyun Du**, Weize Chen, Cheng Yang, Chen Qian. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2406.14928) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thinkwee/iAgents)
-
+<div class="pub-card">
+<strong>[NeurIPS 2024] Autonomous Agents for Collaborative Task under Information Asymmetry</strong><br>
+Wei Liu<sup>†</sup>, Chenxi Wang<sup>†</sup>, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, <strong>Zhuoyun Du</strong>, Weize Chen, Cheng Yang, Chen Qian.<br>
+<a href="https://arxiv.org/abs/2406.14928"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://github.com/thinkwee/iAgents"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
 <details>
 <summary><b>📖 More Publications</b></summary>
 
-### Related Work
+<h3>Related Work</h3>
 
-- **[ACL 2024]** **Experiential Co-Learning of Software-Developing Agents**  
-Chen Qian \\(^\dagger\\), Yufan Dang \\(^\dagger\\), Jiahao Li, Wei Liu, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2312.17025) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide)
+<div class="pub-card">
+<strong>[ACL 2024] Experiential Co-Learning of Software-Developing Agents</strong><br>
+Chen Qian<sup>†</sup>, Yufan Dang<sup>†</sup>, Jiahao Li, Wei Liu, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.<br>
+<a href="https://arxiv.org/abs/2312.17025"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#experiential-co-learning-guide"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
+</div>
 
-- **[ACL 2024]** **Communicative Agents for Software Development**  
-Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun. [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2307.07924) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenBMB/ChatDev/)
+<div class="pub-card">
+<strong>[ACL 2024] Communicative Agents for Software Development</strong><br>
+Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun.<br>
+<a href="https://arxiv.org/abs/2307.07924"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://github.com/OpenBMB/ChatDev/"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
+</div>
 
 </details>
 
-\\(\dagger\\): Equal Contribution.
+<p style="margin-top: 10px;"><sup>†</sup> Equal Contribution</p>
 
 ---
 
@@ -126,43 +200,38 @@ Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang , J
 
 ### 🔬 Research Positions
 
-<div style="background: #F0F4FF; padding: 20px; border-radius: 10px; margin: 15px 0;">
-
-**[THUNLP](https://nlp.csai.tsinghua.edu.cn/) @ Tsinghua University**  
-*Research Intern | Nov 2023 – Aug 2024*
-
-Leading development on the [ChatDev](https://github.com/OpenBMB/ChatDev/) ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project, focusing on multi-agent cross-team collaboration capabilities.
-
+<div class="exp-card">
+<strong><a href="https://nlp.csai.tsinghua.edu.cn/">THUNLP</a> @ Tsinghua University</strong><br>
+<em>Research Intern | Nov 2023 – Aug 2024</em><br><br>
+Leading development on the <a href="https://github.com/OpenBMB/ChatDev/">ChatDev</a> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> project, focusing on multi-agent cross-team collaboration capabilities.
 </div>
 
 ### 🎓 Academic Service
 
-- **Program Committee**: [NeurIPS 2025](https://neurips.cc/Conferences/2025)
+- **Program Committee**: <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>
 
 ---
 
 ## 🌟 Beyond Research
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="text-align: center; padding: 20px; background: #E8F4F8; border-radius: 10px;">
+<div class="hobby-grid">
+<div class="hobby-card hobby-sports">
 <h3>⚽ Sports</h3>
 Soccer • Fencing • Snowboarding
 </div>
 
-<div style="text-align: center; padding: 20px; background: #FFF4E6; border-radius: 10px;">
+<div class="hobby-card hobby-music">
 <h3>🎵 Music</h3>
 Piano • Guitar (Beginner)
 </div>
 
-<div style="text-align: center; padding: 20px; background: #F0F4FF; border-radius: 10px;">
+<div class="hobby-card hobby-other">
 <h3>📸 Hobbies</h3>
 Photography • Reading • Blogging
 </div>
-
 </div>
 
-Visit my [**personal blog**](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4) for research insights, photography, and life experiences!
+Visit my <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4"><strong>personal blog</strong></a> for research insights, photography, and life experiences!
 
 ---
 
@@ -170,11 +239,12 @@ Visit my [**personal blog**](https://xiaodu-flying.notion.site/Welcome-to-my-blo
 
 <div style="text-align: center; margin: 30px 0;">
 
-📧 **Email**: [xiaodu.flying@gmail.com](mailto:xiaodu.flying@gmail.com)  
-🌐 **Blog**: [My Personal Blog](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4)  
-💻 **GitHub**: [@XiaoDu-flying](https://github.com/XiaoDu-flying)
+📧 <strong>Email</strong>: <a href="mailto:xiaodu.flying@gmail.com">xiaodu.flying@gmail.com</a><br>
+🌐 <strong>Blog</strong>: <a href="https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4">My Personal Blog</a><br>
+💻 <strong>GitHub</strong>: <a href="https://github.com/XiaoDu-flying">@XiaoDu-flying</a>
 
-![Last Commit](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge)
+<br><br>
+<img src="https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying.github.io?color=green&style=for-the-badge" alt="Last Commit">
 
 </div>
 
