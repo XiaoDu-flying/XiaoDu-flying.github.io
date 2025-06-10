@@ -208,6 +208,12 @@ Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Ji
 <a href="https://github.com/OpenBMB/ChatDev/"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
+<div class="pub-card">
+<strong>[ACL 2024] Multi-agent ebook</strong><br>
+<a href="https://github.com/OpenBMB/ChatDev/tree/main/MultiAgentEbook"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
+</div>
+
+
 </details>
 
 <p style="margin-top: 10px;"><sup>†</sup> Equal Contribution</p>
