@@ -233,7 +233,7 @@ Working on advanced AI applications in e-commerce, focusing on multi-agent reaso
 <div class="exp-card">
 <strong><a href="https://nlp.csai.tsinghua.edu.cn/">THUNLP</a> @ Tsinghua University</strong><br>
 <em>Research Intern | Nov 2023 – Aug 2024</em><br><br>
-Leading development on the <a href="https://github.com/OpenBMB/ChatDev/">ChatDev</a> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> project, focusing on multi-agent cross-team collaboration capabilities.
+Deeply involved in the development on the <a href="https://github.com/OpenBMB/ChatDev/">ChatDev</a> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> and its related projects, focusing on multi-agent cross-team collaboration capabilities.
 </div>
 
 ### 🎓 Academic Service
