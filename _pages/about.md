@@ -165,27 +165,27 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 <div class="pub-card">
 <strong>[ACL 2025] LLMs Can Simulate Standardized Patients via Agent Coevolution</strong><br>
 <strong>Zhuoyun Du</strong><sup>†</sup>, Lujie Zheng<sup>†</sup>, Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying.<br>
-<a href="https://arxiv.org/abs/2412.11716"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2412.11716"><img src="https://img.shields.io/badge/Conference-ACL%202025-blue" alt="ACL 2025"></a>
 </div>
 
 <div class="pub-card">
 <strong>[ACL 2025 Findings] Multi-Agent Software Development through Cross-Team Collaboration</strong><br>
 <strong>Zhuoyun Du</strong><sup>†</sup>, Chen Qian<sup>†</sup>, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.<br>
-<a href="https://arxiv.org/abs/2406.08979"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2406.08979"><img src="https://img.shields.io/badge/Conference-ACL%202025-blue" alt="ACL 2025"></a>
 <a href="https://github.com/OpenBMB/ChatDev/tree/macnet"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
 <div class="pub-card">
 <strong>[ICLR 2025] Scaling Large-Language-Model-based Multi-Agent Collaboration</strong><br>
 Chen Qian<sup>†</sup>, Zihao Xie<sup>†</sup>, Yifei Wang<sup>†</sup>, Wei Liu, Yufan Dang, <strong>Zhuoyun Du</strong>, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun.<br>
-<a href="https://arxiv.org/abs/2406.07155"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2406.07155"><img src="https://img.shields.io/badge/Conference-ICLR%202025-green" alt="ICLR 2025"></a>
 <a href="https://github.com/OpenBMB/ChatDev/tree/macnet"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
 <div class="pub-card">
 <strong>[NeurIPS 2024] Autonomous Agents for Collaborative Task under Information Asymmetry</strong><br>
 Wei Liu<sup>†</sup>, Chenxi Wang<sup>†</sup>, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, <strong>Zhuoyun Du</strong>, Weize Chen, Cheng Yang, Chen Qian.<br>
-<a href="https://arxiv.org/abs/2406.14928"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2406.14928"><img src="https://img.shields.io/badge/Conference-NeurIPS%202024-purple" alt="NeurIPS 2024"></a>
 <a href="https://github.com/thinkwee/iAgents"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
 </div>
 
@@ -223,6 +223,12 @@ Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Ji
 ## 💼 Professional Experience
 
 ### 🔬 Research Positions
+
+<div class="exp-card">
+<strong><a href="https://www.taobao.com/">Taowise @ Taotian (Alibaba Group)</a></strong><br>
+<em>Algorithm Engineer Intern | Jan 2025 – Present</em><br><br>
+Working on advanced AI applications in e-commerce, focusing on multi-agent reasoning enhancement and supervised fine-tuning (SFT) for large language models to improve recommendation systems and user experience.
+</div>
 
 <div class="exp-card">
 <strong><a href="https://nlp.csai.tsinghua.edu.cn/">THUNLP</a> @ Tsinghua University</strong><br>
