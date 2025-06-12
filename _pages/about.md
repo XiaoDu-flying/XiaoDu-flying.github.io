@@ -225,7 +225,7 @@ Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Ji
 ### 🔬 Research Positions
 
 <div class="exp-card" style="background: linear-gradient(135deg, #FFF7E6 0%, #FFF9F0 100%); border-left: 4px solid #FF6A00; border: 1px solid #FFD4A3;">
-<strong><a href="https://www.taobao.com/">Taowise @ Taotian (Alibaba Group)</a></strong><br>
+<strong><a href="https://www.alibaba.com/">Taowise @ Taotian (Alibaba Group)</a></strong><br>
 <em>Algorithm Engineer Intern | Jan 2025 – Present</em><br><br>
 Focusing on reseaches on new paradigm in multi-agent reasoning enhancement and supervised fine-tuning (SFT) methodologies for large language models. Meanwhile working on advanced AI applications in e-commerce.
 </div>
