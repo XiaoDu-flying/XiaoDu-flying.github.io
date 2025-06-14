@@ -139,21 +139,15 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 
 <details>
 <summary><b>📅 Earlier News</b></summary>
-
-- <strong>[2024.6.21]</strong> Released work on <a href="https://arxiv.org/abs/2406.14928">Information Asymmetry in Agent Collaboration</a>
-
-- <strong>[2024.6.14]</strong> Introduced <a href="https://arxiv.org/abs/2406.08979">Cross-Team Multi-Agent Organization</a>
-
-- <strong>[2024.6.12]</strong> Published <a href="https://arxiv.org/abs/2406.07155">Scaling Laws in Multi-Agent Systems</a>
-
-- <strong>[2024.5.16]</strong> Two papers accepted at <strong>ACL 2024</strong> main conference
-
-- <strong>[2023.12.29]</strong> Released <a href="https://arxiv.org/abs/2312.17025">Experiential Co-Learning 🕵️</a>
-
-- <strong>[2024.5.6]</strong> Released <a href="https://arxiv.org/abs/2405.04219">Iterative Experience Refinement</a>
-
-- <strong>[2023.8.29]</strong> ChatDev open-sourced! Now with <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> stars!
-
+<ul style="margin-top: 8px; padding-left: 20px;">
+    <li><strong>[2024.6.21]</strong> Released work on <a href="https://arxiv.org/abs/2406.14928">Information Asymmetry in Agent Collaboration</a></li>
+    <li><strong>[2024.6.14]</strong> Introduced <a href="https://arxiv.org/abs/2406.08979">Cross-Team Multi-Agent Organization</a></li>
+    <li><strong>[2024.6.12]</strong> Published <a href="https://arxiv.org/abs/2406.07155">Scaling Laws in Multi-Agent Systems</a></li>
+    <li><strong>[2024.5.16]</strong> Two papers accepted at <strong>ACL 2024</strong> main conference</li>
+    <li><strong>[2024.5.6]</strong> Released <a href="https://arxiv.org/abs/2405.04219">Iterative Experience Refinement</a></li>
+    <li><strong>[2023.12.29]</strong> Released <a href="https://arxiv.org/abs/2312.17025">Experiential Co-Learning 🕵️</a></li>
+    <li><strong>[2023.8.29]</strong> ChatDev open-sourced! Now with <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev.svg" alt="stars"> stars!</li>
+</ul>
 </details>
 
 ---
