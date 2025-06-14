@@ -160,7 +160,7 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 <strong>[ACL 2025] LLMs Can Simulate Standardized Patients via Agent Coevolution</strong><br>
 <strong>Zhuoyun Du</strong><sup>†</sup>, Lujie Zheng<sup>†</sup>, Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen, Jian Wu, Haolei Cai, Haohao Ying.<br>
 <a href="https://arxiv.org/abs/2412.11716"><img src="https://img.shields.io/badge/Conference-ACL%202025-blue" alt="ACL 2025"></a>
-<a href="your-poster-link-here.pdf"><img src="https://img.shields.io/badge/Poster-PDF-red" alt="Poster"></a>
+<a href="../assets/poster/Poster_evopatient.pdf"><img src="https://img.shields.io/badge/Poster-PDF-red" alt="Poster"></a>
 </div>
 
 <div class="pub-card">
@@ -168,7 +168,7 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 <strong>Zhuoyun Du</strong><sup>†</sup>, Chen Qian<sup>†</sup>, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang.<br>
 <a href="https://arxiv.org/abs/2406.08979"><img src="https://img.shields.io/badge/Conference-ACL%202025-blue" alt="ACL 2025"></a>
 <a href="https://github.com/OpenBMB/ChatDev/tree/macnet"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a>
-<a href="your-poster-link-here.pdf"><img src="https://img.shields.io/badge/Poster-PDF-red" alt="Poster"></a>
+<a href="../assets/poster/Poster_croto.pdf"><img src="https://img.shields.io/badge/Poster-PDF-red" alt="Poster"></a>
 </div>
 
 <div class="pub-card">
