@@ -91,7 +91,7 @@ I am a first-year graduate student at <a href="https://www.zju.edu.cn/"><strong>
 
 ### 🔬 Research Journey
 
-Currently, I'm working with <a href="https://zjuvag.org/authors/weichen/"><strong>Prof. Wei Chen</strong></a> at the <a href="https://zjuvai.cn/"><strong>ZJUVAI</strong></a> (State Key Lab of CAD&CG). Previously, I had the privilege of serving as a Research Assistant in the <a href="https://github.com/OpenBMB/ChatDev"><strong>ChatDev</strong></a> ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project at <a href="https://www.tsinghua.edu.cn"><strong>Tsinghua University</strong></a>, under the mentorship of <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/"><strong>Prof. Zhiyuan Liu</strong></a> and <a href="https://qianc62.github.io/"><strong>Prof. Chen Qian</strong></a> from <a href="https://qianc62.github.io/"><strong>THUNLP</strong></a>.
+Currently, I'm working with <a href="https://zjuvag.org/authors/weichen/"><strong>Prof. Wei Chen</strong></a> at the <a href="https://zjuvai.cn/"><strong>ZJUVAI</strong></a> (State Key Lab of CAD&CG). Previously, I had the privilege of serving as a Research Assistant in the <a href="https://github.com/OpenBMB/ChatDev"><strong>ChatDev</strong></a> ![stars](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg) project at <a href="https://www.tsinghua.edu.cn"><strong>Tsinghua University</strong></a>, under the mentorship of <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/"><strong>Prof. Zhiyuan Liu</strong></a> and <a href="https://qianc62.github.io/"><strong>Prof. Chen Qian</strong></a> from <a href="https://nlp.csai.tsinghua.edu.cn/"><strong>THUNLP</strong></a>.
 
 ---
 
