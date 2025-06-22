@@ -5,6 +5,63 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## EvoPatient: LLM-based Standardized Patients via Agent Coevolution
+
+### 🎥 Demo Video
+https://github.com/user-attachments/assets/895575e0-3a5b-4ab1-9d37-210be5aed329
+
+*EvoPatient system demonstration - showing standardized patient simulation through agent coevolution*
+
+### 🏥 Revolutionizing Medical Education Through AI
+
+Training medical personnel using standardized patients (SPs) has long been a cornerstone of medical education, yet it faces significant challenges including high costs, extensive training requirements, and potential psychological impacts on human SPs. **EvoPatient** introduces a solution: an innovative multi-agent coevolution framework that enables Large Language Models to simulate highly realistic standardized patients without human supervision.
+
+![EvoPatient Framework](../images/paper/evopatient_overview.png "EvoPatient integrates multiple evolvable agents with distinct roles, collaboratively simulating a real-world diagnostic process that effectively trains doctors with various cases.")
+
+### 🚀 Key Innovations
+
+**Autonomous Coevolution Mechanism**: Our framework features a unique coevolution process where patient agents and doctor agents simultaneously improve through unsupervised simulations. Patient agents learn standardized presentation patterns while doctor agents develop professional questioning strategies, creating a self-improving ecosystem.
+
+**Multi-Disciplinary Consultation System**: EvoPatient implements a sophisticated recruitment process that allows doctor agents to dynamically invite specialists from different disciplines when cases exceed their expertise, mirroring real-world medical consultations and enhancing the diversity of training scenarios.
+
+**Robust Information Security**: Through evolution, our patient agents learn to resist "cheat questions" - attempts by doctors to obtain information they shouldn't easily access - ensuring realistic and fair training conditions that truly test diagnostic skills.
+
+### 📊 Proven Performance
+
+Extensive experiments across 20,000+ medical cases demonstrate that EvoPatient significantly outperforms existing methods:
+
+- **10%+ improvement** in requirement alignment compared to traditional reasoning methods
+- **Superior human preference** in both standard and adversarial question scenarios  
+- **Optimal resource consumption** after evolving over 200 cases for 10 hours
+- **Excellent generalizability** across diverse medical conditions and specialties
+
+### 🎯 Real-World Impact
+
+EvoPatient addresses critical challenges in medical education:
+
+- **Cost Reduction**: Eliminates the need for extensive human SP training and operational costs
+- **Scalability**: Supports thousands of concurrent training sessions across multiple medical specialties
+- **Consistency**: Provides standardized, reproducible training experiences
+- **Safety**: Removes psychological burden on human SPs while maintaining training effectiveness
+
+### 🔬 Technical Excellence
+
+The framework incorporates cutting-edge AI techniques:
+
+- **Attention Library**: Automatically refines patient requirements and stores high-quality dialogue demonstrations
+- **Trajectory Library**: Captures and reuses successful diagnostic question sequences
+- **Memory Management**: Implements both instant and summarized memory to handle long-context interactions
+- **Quality Validation**: Employs sophisticated metrics to ensure training authenticity and effectiveness
+
+### 🌟 Future of Medical Training
+
+EvoPatient represents a paradigm shift in medical education, offering a scalable, cost-effective, and highly realistic alternative to traditional standardized patient programs. By leveraging the power of multi-agent coevolution, we're not just simulating patients - we're creating an intelligent training ecosystem that continuously improves and adapts to provide the best possible medical education experience.
+
+**Research Paper**: [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2406.08979)
+
+**Code Repository**: Available at [https://github.com/ZJUMAI/EvoPatient](https://github.com/ZJUMAI/EvoPatient)
+
+
 ## Comprehensive Outline of Large Language Model-based Multi-Agent Research
 
 ![pic1](../images/web/web_thunlp.jpg "🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, the ChatDev team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format.")
