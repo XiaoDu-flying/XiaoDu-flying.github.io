@@ -16,7 +16,9 @@ https://github.com/user-attachments/assets/895575e0-3a5b-4ab1-9d37-210be5aed329
 
 Training medical personnel using standardized patients (SPs) has long been a cornerstone of medical education, yet it faces significant challenges including high costs, extensive training requirements, and potential psychological impacts on human SPs. **EvoPatient** introduces a solution: an innovative multi-agent coevolution framework that enables Large Language Models to simulate highly realistic standardized patients without human supervision.
 
-![EvoPatient Framework](../images/paper/evopatient_overview.png "EvoPatient integrates multiple evolvable agents with distinct roles, collaboratively simulating a real-world diagnostic process that effectively trains doctors with various cases.")
+<p align="center">
+  <img src='../images/paper/evopatient_overview.png' width=600>
+</p>
 
 ### 🚀 Key Innovations
 
@@ -64,7 +66,9 @@ EvoPatient represents a paradigm shift in medical education, offering a scalable
 
 ## Comprehensive Outline of Large Language Model-based Multi-Agent Research
 
-![pic1](../images/web/web_thunlp.jpg "🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, the ChatDev team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format.")
+<p align="center">
+  <img src='../images/web/web_thunlp.jpg' width=800>
+</p>
 
 🎉To foster development in LLM-powered multi-agent collaboration🤖🤖 and related fields, our team has curated a collection of seminal papers📄 presented in an interactive e-book📚 format. Explore the latest advancements and download the paper list here: [ebook](https://thinkwee.top/multiagent_ebook)
 
@@ -86,9 +90,11 @@ Multi-agent systems are currently classified into two categories based on whethe
 
 ---
 
-## Multi-Agent Cross-Team Collaboration
+## Multi-Agent Cross-Team Orchestration
 
-![pic1](../images/paper/aggregate_ctc.png "The aggregation process in Cross-Team Collaboration involves multiple agents from different teams contributing a variety of content. These contents are partitioned into groups and cooperatively integrated through communications, highlighting the distinctive features of each team. Ultimately, this process results in a superior outcome that embodies the features of all participating teams.")
+<p align="center">
+  <img src='../images/paper/aggregate_ctc.png' width=800>
+</p>
 
 I am thrilled to showcase my recent work at THUNLP, with heartfelt gratitude to all the mentors and peers who have guided me along the way 😀!
 
@@ -108,7 +114,9 @@ We warmly welcome your attention and look forward to engaging in enlightening ex
 
 ## Scaling Large-Language-Model-based Multi-Agent Collaboration
 
-![pic1](../images/paper/macnet.png "Given a task, multi-agent collaboration networks (MACNET) utilize directed acyclic graphs to organize diverse agents for collaborative interactions, with the final solution derived from their dialogues.")
+<p align="center">
+  <img src='../images/paper/macnet.png' width=600>
+</p>
 
 🎉 Our team has recently proposed the Multi-Agent Collaboration Networks (MacNet), as summarized in the figure. Large model agents are deployed on the topology of a directed acyclic graph, and by using topological sorting, the network is "unfolded" into a sequence of interactions for the agents 🤖🤖, driven by language interactions for task-oriented collaboration. Moreover, the network only propagates the solutions after interaction (not the entire conversation), building a scalable memory management mechanism 🧠. 
 
