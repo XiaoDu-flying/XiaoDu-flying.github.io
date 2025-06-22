@@ -7,12 +7,7 @@ author_profile: true
 
 ## EvoPatient: LLM-based Standardized Patients via Agent Coevolution
 
-### 🎥 Demo Video
-https://github.com/user-attachments/assets/895575e0-3a5b-4ab1-9d37-210be5aed329
-
-*EvoPatient system demonstration - showing standardized patient simulation through agent coevolution*
-
-### 🏥 Revolutionizing Medical Education Through AI
+### 🏥 Changing Medical Education Through AI
 
 Training medical personnel using standardized patients (SPs) has long been a cornerstone of medical education, yet it faces significant challenges including high costs, extensive training requirements, and potential psychological impacts on human SPs. **EvoPatient** introduces a solution: an innovative multi-agent coevolution framework that enables Large Language Models to simulate highly realistic standardized patients without human supervision.
 
