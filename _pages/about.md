@@ -125,6 +125,8 @@ I'm dedicated to developing LLM-based autonomous agents capable of effectively t
 
 ### 📰 News Timeline
 
+- **[2025.8.22]** Our work on pluggable RL process supervision framework that enables fine-grained optimization of each reasoning step is avaliable at <a href="https://arxiv.org/abs/2508.12604">SSPO</a>.
+
 <div class="news-highlight">
 <strong>[2025.5.16]</strong> 🎊 Two papers accepted at <strong>ACL 2025</strong> - exploring cross-team collaboration and medical education applications!
 </div>
