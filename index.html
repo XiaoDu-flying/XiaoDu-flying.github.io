@@ -194,7 +194,7 @@
       <a href="javascript:toggleblock('evopatient_abs')">abstract</a> |
       <a shape="rect" href="javascript:togglebib('evopatient')" class="togglebib">bibtex</a>
 
-      <p align="justify"> <i id="evopatient_abs">We introduce EvoPatient, a novel approach that transforms LLMs into standardized patients for medical education through agent coevolution, enabling realistic patient simulation and improving medical training effectiveness.</i></p>
+      <p align="justify"> <i id="evopatient_abs">Training medical personnel using standardized patients (SPs) remains a complex challenge, requiring extensive domain expertise and role-specific practice. Previous research on Large Language Model (LLM)-based SPs mostly focuses on improving data retrieval accuracy or adjusting prompts through human feedback. However, this focus has overlooked the critical need for patient agents to learn a standardized presentation pattern that transforms data into human-like patient responses through unsupervised simulations. To address this gap, we propose EvoPatient, a novel simulated patient framework in which a patient agent and doctor agents simulate the diagnostic process through multi-turn dialogues, simultaneously gathering experience to improve the quality of both questions and answers, ultimately enabling human doctor training. Extensive experiments on various cases demonstrate that, by providing only overall SP requirements, our framework improves over existing reasoning methods by more than 10\% in requirement alignment and better human preference, while achieving an optimal balance of resource consumption after evolving over 200 cases for 10 hours, with excellent generalizability. </i></p>
 
 <pre xml:space="preserve">
 @article{du2024evopatient,
@@ -214,7 +214,7 @@
     </td>
     <td width="60%" valign="top">
       <p><a href="https://arxiv.org/abs/2406.08979" id="CROSSTEAM">
-      <heading>Multi-Agent Software Development through Cross-Team Collaboration</heading></a><br>
+      <heading>Multi-Agent Collaboration via Cross-Team Orchestration</heading></a><br>
       <strong>Zhuoyun Du</strong><sup>†</sup>, Chen Qian<sup>†</sup>, Wei Liu, Zihao Xie, Yifei Wang, Yufan Dang, Weize Chen, Cheng Yang<br>
       ACL 2025 Findings<br>
       </p>
@@ -224,7 +224,7 @@
       <a href="javascript:toggleblock('crossteam_abs')">abstract</a> |
       <a shape="rect" href="javascript:togglebib('crossteam')" class="togglebib">bibtex</a>
 
-      <p align="justify"> <i id="crossteam_abs">We propose a cross-team collaboration framework for multi-agent software development, enabling different teams to work together on complex software projects through structured communication and coordination mechanisms.</i></p>
+      <p align="justify"> <i id="crossteam_abs">Large Language Models (LLMs) have significantly impacted various domains, especially through organized LLM-driven autonomous agents. A representative scenario is in software development, where agents can collaborate in a team like humans, following predefined phases to complete sub-tasks sequentially. However, for an agent team, each phase yields only one possible outcome. This results in the completion of only one development chain, thereby losing the opportunity to explore multiple potential decision paths within the solution space. Consequently leading to suboptimal results or extensive trial and error. To address this, we introduce Cross-Team Orchestration (Croto), a scalable multi-team framework that enables orchestrated teams to jointly propose various task-oriented solutions and interact with their insights in a self-independence while cross-team collaboration environment for superior solutions generation. Experiments reveal a notable increase in software quality compared to state-of-the-art baselines. We further tested our framework on story generation tasks, which demonstrated a promising generalization ability of our framework in other domains.</i></p>
 
 <pre xml:space="preserve">
 @article{du2024crossteam,
@@ -254,7 +254,7 @@
       <a href="javascript:toggleblock('scalingmas_abs')">abstract</a> |
       <a shape="rect" href="javascript:togglebib('scalingmas')" class="togglebib">bibtex</a>
 
-      <p align="justify"> <i id="scalingmas_abs">We investigate scaling laws in multi-agent systems and propose methods to effectively scale LLM-based multi-agent collaboration for complex task solving.</i></p>
+      <p align="justify"> <i id="scalingmas_abs">Recent breakthroughs in large language model-driven autonomous agents have revealed that multi-agent collaboration often surpasses each individual through collective reasoning. Inspired by the neural scaling law--increasing neurons enhances performance, this study explores whether the continuous addition of collaborative agents can yield similar benefits. Technically, we utilize directed acyclic graphs to organize agents into a multi-agent collaboration network (MacNet), upon which their interactive reasoning is topologically orchestrated for autonomous task solving. Extensive evaluations reveal that it effectively supports collaboration among over a thousand agents, with irregular topologies outperforming regular ones. We also identify a collaborative scaling law--the overall performance follows a logistic growth pattern as agents scale, with collaborative emergence occurring earlier than traditional neural emergence. We speculate this may be because scaling agents catalyzes their multidimensional considerations during interactive reflection and refinement, thereby producing more comprehensive artifacts.</i></p>
 
 <pre xml:space="preserve">
 @article{qian2024scaling,
@@ -284,7 +284,7 @@
       <a href="javascript:toggleblock('asymmetry_abs')">abstract</a> |
       <a shape="rect" href="javascript:togglebib('asymmetry')" class="togglebib">bibtex</a>
 
-      <p align="justify"> <i id="asymmetry_abs">We study how autonomous agents can effectively collaborate on tasks when they have asymmetric information, proposing novel mechanisms for information sharing and coordination.</i></p>
+      <p align="justify"> <i id="asymmetry_abs">Large Language Model Multi-Agent Systems (LLM-MAS) have achieved great progress in solving complex tasks. It performs communication among agents within the system to collaboratively solve tasks, under the premise of shared information. However, when agents' collaborations are leveraged to perform multi-person tasks, a new challenge arises due to information asymmetry, since each agent can only access the information of its human user. Previous MAS struggle to complete tasks under this condition. To address this, we propose a new MAS paradigm termed iAgents, which denotes Informative Multi-Agent Systems. In iAgents, the human social network is mirrored in the agent network, where agents proactively exchange human information necessary for task resolution, thereby overcoming information asymmetry. iAgents employs a novel agent reasoning mechanism, InfoNav, to navigate agents' communication toward effective information exchange. Together with InfoNav, iAgents organizes human information in a mixed memory to provide agents with accurate and comprehensive information for exchange. Additionally, we introduce InformativeBench, the first benchmark tailored for evaluating LLM agents' task-solving ability under information asymmetry. Experimental results show that iAgents can collaborate within a social network of 140 individuals and 588 relationships, autonomously communicate over 30 turns, and retrieve information from nearly 70,000 messages to complete tasks within 3 minutes.</i></p>
 
 <pre xml:space="preserve">
 @article{liu2024autonomous,
